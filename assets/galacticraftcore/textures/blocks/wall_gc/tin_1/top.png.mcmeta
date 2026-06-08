@@ -1,0 +1,10 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "galacticraftcore:blocks/wall_gc/tin_2/bottom_ctm"
+        ],
+        "extra": { "connect_inside": true }
+    }
+}
